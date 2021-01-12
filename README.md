@@ -23,7 +23,7 @@ pod 'BreakingNews'
 
 ## Author
 
-goshabedunkevich, goshabedunkevich@gmail.com
+Egor Bedunkevich, goshabedunkevich@gmail.com
 
 ## License
 
