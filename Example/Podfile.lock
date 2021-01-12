@@ -1,0 +1,27 @@
+PODS:
+  - BreakingNews (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - BreakingNews (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  BreakingNews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BreakingNews: c36dd0e20fada6b383877c93f94954d30b53b173
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 2c7d19a98e688bac370bc993999b0f65f9bb45d9
+
+COCOAPODS: 1.9.3
