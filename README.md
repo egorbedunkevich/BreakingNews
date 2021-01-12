@@ -1,5 +1,6 @@
 # BreakingNews
 
+![](https://github.com/goshabedunkevich/BreakingNews/blob/master/example.gif)
 [![CI Status](https://img.shields.io/travis/goshabedunkevich/BreakingNews.svg?style=flat)](https://travis-ci.org/goshabedunkevich/BreakingNews)
 [![Version](https://img.shields.io/cocoapods/v/BreakingNews.svg?style=flat)](https://cocoapods.org/pods/BreakingNews)
 [![License](https://img.shields.io/cocoapods/l/BreakingNews.svg?style=flat)](https://cocoapods.org/pods/BreakingNews)
