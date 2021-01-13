@@ -6,6 +6,14 @@
 [![License](https://img.shields.io/cocoapods/l/BreakingNews.svg?style=flat)](https://cocoapods.org/pods/BreakingNews)
 [![Platform](https://img.shields.io/cocoapods/p/BreakingNews.svg?style=flat)](https://cocoapods.org/pods/BreakingNews)
 
+## Usage
+```swift
+// The view will be dismissed automatically when the user taps on it.
+let breaking = self.navigationController as! Breaking
+breaking.news(nil, .link, .white)
+breaking.breakingNewsDelegate = self
+```
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
